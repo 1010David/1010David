@@ -21,3 +21,7 @@ Hi, I'm David, a programmer from Bogota.  My passion lies in web development, an
 ## 👋 Reach out to me 
 - 🖼️ Portfolio site: [Portfolio](https://)
 
+
+![Tus estadísticas de Github](https://github-readme-stats.vercel.app/api?username=David1010&hide=["issues"]&show_icons=true)
+
+
