@@ -2,7 +2,8 @@
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/david-beltrán-java)](linkedin.com/in/david-beltrán-java) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/david-beltrán-java)](https://linkedin.com/in/david-beltrán-java)
+ 
 
 
 Hi, I'm David, a programmer from Bogota.  My passion lies in web development, and I am always eager to learn new technologies and expand my skill set.
