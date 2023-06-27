@@ -19,4 +19,4 @@ Hi, I'm David, a programmer from Bogota.  My passion lies in web development, an
 - Solving data structure and algorithm questions in **Java**.
 
 ## 👋 Reach out to me 
-- 🖼️ Portfolio site: [Portfolio](https://https://mljlc9mn3qua6wnttr6uiq.on.drv.tw/www.portfolio.demo/public/)
+- 🖼️ Portfolio site: [Portfolio](https://mljlc9mn3qua6wnttr6uiq.on.drv.tw/www.portfolio.demo/public/)
