@@ -18,5 +18,3 @@ Hi, I'm David, a programmer from Bogota.  My passion lies in web development, an
 - Developing Web applications using **Spring Boot**(Still learning)
 - Solving data structure and algorithm questions in **Java**.
 
-## 👋 Reach out to me 
-- 🖼️ Portfolio site: [Portfolio](https://mljlc9mn3qua6wnttr6uiq.on.drv.tw/mi_portfolio/)
