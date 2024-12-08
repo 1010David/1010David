@@ -58,7 +58,7 @@ class DeveloperBackendJunior {
 
     public void conectate() {
         System.out.println("\n📫 ¡Conéctate conmigo!");
-        System.out.println("LinkedIn: https://linkedin.com/in/[Tu-LinkedIn];");
-        System.out.println("Email: [Tu-Correo-Electrónico];");
+        System.out.println("LinkedIn: https://linkedin.com/in/david-beltrán-java/];");
+        System.out.println("Email: [j.david.beltran.m@gmail.com];");
     }
 }
