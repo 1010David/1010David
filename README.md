@@ -1,7 +1,7 @@
 public class Welcome {
 
     public static void main(String[] args) {
-        System.out.println("👋 ¡Hola! Soy [Tu Nombre]");
+        System.out.println("👋 ¡Hola! Soy David Beltrán);
 
         DeveloperBackendJunior desarrollador = new DeveloperBackendJunior(
             "Transición de carrera",
